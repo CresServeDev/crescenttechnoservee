@@ -44,7 +44,7 @@
 /*  01. Theme Default CSS
 ==============================================*/
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
-:root {
+/* :root {
   --tg-body-font-family: 'Plus Jakarta Sans', sans-serif;
   --tg-heading-font-family: 'Plus Jakarta Sans', sans-serif;
   --tg-icon-font-family: "Font Awesome 5 Free";
@@ -86,7 +86,51 @@
   --tg-fw-medium: 500;
   --tg-fw-regular: 400;
   --tg-fw-light: 300;
+} */
+
+:root {
+  /* Font Families */
+  --tg-body-font-family: 'Plus Jakarta Sans', sans-serif;
+  --tg-heading-font-family: 'Plus Jakarta Sans', sans-serif;
+  --tg-icon-font-family: "Font Awesome 5 Free";
+
+  /* Typography */
+  --tg-body-font-size: 16px;
+  --tg-body-line-height: 1.7;
+  --tg-heading-line-height: 1.2;
+
+  /* Colors */
+  --tg-body-color: #4A5568;
+  --tg-heading-color: #004958;
+
+  /* Theme */
+  --tg-theme-primary: #004958;
+  --tg-theme-secondary: #007B83;
+  --tg-theme-accent: #00B6B1;
+  --tg-theme-highlight: #F5C66A;
+
+  /* Backgrounds & Neutrals */
+  --tg-color-white-default: #ffffff;
+  --tg-color-gray-1: #E8F1F2;
+  --tg-color-gray-2: #F4F7F7;
+  --tg-color-gray-3: #E1EBEC;
+  --tg-color-gray-4: #C7D3D4;
+  --tg-color-dark: #1E2E2E;
+  --tg-color-dark-2: #102020;
+
+  /* Borders */
+  --tg-border-1: #99B1B1;
+  --tg-border-2: #C7D9D9;
+
+  /* Font Weights */
+  --tg-fw-extra-bold: 800;
+  --tg-fw-bold: 700;
+  --tg-fw-semi-bold: 600;
+  --tg-fw-medium: 500;
+  --tg-fw-regular: 400;
+  --tg-fw-light: 300;
 }
+
 
 .btn-metallic {
   background: var(--tg-gradient-primary);
