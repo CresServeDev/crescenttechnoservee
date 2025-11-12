@@ -44,7 +44,7 @@
 /*  01. Theme Default CSS
 ==============================================*/
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
-/* :root {
+:root {
   --tg-body-font-family: 'Plus Jakarta Sans', sans-serif;
   --tg-heading-font-family: 'Plus Jakarta Sans', sans-serif;
   --tg-icon-font-family: "Font Awesome 5 Free";
@@ -86,7 +86,7 @@
   --tg-fw-medium: 500;
   --tg-fw-regular: 400;
   --tg-fw-light: 300;
-} */
+}
 
 .btn-metallic {
   background: var(--tg-gradient-primary);
