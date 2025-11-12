@@ -12040,7 +12040,7 @@ blockquote cite {
     	14. Contact
 ===============================*/
 .footer__area-two {
-  background: var(--tg-color-dark-3);
+  background: #00B6B1;
   position: relative;
   z-index: 1;
 }
