@@ -12298,12 +12298,12 @@ blockquote cite {
 }
 @media (max-width: 991.98px) {
   .footer__logo img {
-    width: 175px;
+    width: 50px;
   }
 }
 .footer__content p {
   margin-bottom: 0;
-  color: var(--tg-color-gray-6);
+  color: white;
   text-transform: capitalize;
   width: 78%;
 }
@@ -12359,7 +12359,7 @@ blockquote cite {
 }
 .footer__contact p {
   margin-bottom: 12px;
-  color: var(--tg-color-gray-6);
+  color: white;
   text-transform: capitalize;
 }
 .footer__contact a {
@@ -12368,17 +12368,17 @@ blockquote cite {
 .footer__contact a.phone {
   font-weight: 600;
   font-size: 20px;
-  color: var(--tg-color-white-default);
+  color: white;
   margin-bottom: 5px;
 }
 .footer__contact a.phone:hover {
-  color: var(--tg-color-gray-6);
+  color: #004958;
 }
 .footer__contact a.mail {
-  color: var(--tg-color-gray-6);
+  color: white;
 }
 .footer__contact a.mail:hover {
-  color: var(--tg-color-white-default);
+  color: #004958;
 }
 .footer__newsletter p {
   margin-bottom: 23px;
