@@ -3715,7 +3715,7 @@ textarea {
 }
 @media (max-width: 1500px) {
   .brand__area {
-    padding: 50px 30px;
+    padding: 35px 20px;
   }
 }
 @media (max-width: 1199.98px) {
@@ -3850,7 +3850,9 @@ textarea {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  min-height: 32px;
+  /* min-height: 32px; */
+  height: 100px ;
+  width: 100px;
   align-items: center;
   justify-content: center;
 }
