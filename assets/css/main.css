@@ -1240,7 +1240,7 @@ textarea {
   height: 100%;
   z-index: -1;
   pointer-events: none;
-  background: linear-gradient(90deg, #0a165e 25.96%, rgba(10, 22, 94, 0.6) 100%);
+  background: linear-gradient(90deg, #186d74d8 25.96%, rgba(36, 103, 124, 0.6) 100%);
 }
 .breadcrumb__content .title {
   margin-bottom: 30px;
@@ -12042,7 +12042,7 @@ blockquote cite {
     	14. Contact
 ===============================*/
 .footer__area-two {
-  background: var(--tg-color-dark-3);
+  background: #00B6B1;
   position: relative;
   z-index: 1;
 }
@@ -12072,7 +12072,7 @@ blockquote cite {
   justify-content: space-between;
   padding-bottom: 90px;
   flex-wrap: wrap;
-  border-bottom: 1px solid #141b45;
+  border-bottom: 1px solid #59bdb4;
 }
 @media (max-width: 1199.98px) {
   .footer__cta-wrap {
@@ -12167,7 +12167,7 @@ blockquote cite {
   }
 }
 @media (max-width: 767.98px) {
-  .footer__cta-wrap .title .arrow svg {
+  .footer__cta-wrap .title .arrow svg { 
     width: 55px;
   }
 }
@@ -12300,12 +12300,12 @@ blockquote cite {
 }
 @media (max-width: 991.98px) {
   .footer__logo img {
-    width: 175px;
+    width: 50px;
   }
 }
 .footer__content p {
   margin-bottom: 0;
-  color: var(--tg-color-gray-6);
+  color: white;
   text-transform: capitalize;
   width: 78%;
 }
@@ -12361,7 +12361,7 @@ blockquote cite {
 }
 .footer__contact p {
   margin-bottom: 12px;
-  color: var(--tg-color-gray-6);
+  color: white;
   text-transform: capitalize;
 }
 .footer__contact a {
@@ -12370,17 +12370,17 @@ blockquote cite {
 .footer__contact a.phone {
   font-weight: 600;
   font-size: 20px;
-  color: var(--tg-color-white-default);
+  color: white;
   margin-bottom: 5px;
 }
 .footer__contact a.phone:hover {
-  color: var(--tg-color-gray-6);
+  color: #004958;
 }
 .footer__contact a.mail {
-  color: var(--tg-color-gray-6);
+  color: white;
 }
 .footer__contact a.mail:hover {
-  color: var(--tg-color-white-default);
+  color: #004958;
 }
 .footer__newsletter p {
   margin-bottom: 23px;
@@ -12424,7 +12424,7 @@ blockquote cite {
   color: var(--tg-color-white-default);
 }
 .footer__bottom {
-  background: var(--tg-color-dark-2);
+  background: #004958;
   padding: 27px 0;
 }
 @media (max-width: 767.98px) {
@@ -12433,7 +12433,7 @@ blockquote cite {
   }
 }
 .footer__bottom-two {
-  border-top: 1px solid #171f4b;
+  border-top: 1px solid #000000;
   padding: 20px 0;
   background: var(--tg-color-dark-3);
 }
@@ -12459,10 +12459,10 @@ blockquote cite {
   }
 }
 .footer__social .list-wrap li a {
-  color: var(--tg-color-gray-6);
+  color: rgb(243, 239, 232);
 }
 .footer__social .list-wrap li a:hover {
-  color: var(--tg-color-white-default);
+  color: cyan;
 }
 .footer__social-two .list-wrap {
   justify-content: flex-start;
@@ -12572,7 +12572,7 @@ blockquote cite {
 }
 .copyright__text p {
   margin-bottom: 0;
-  color: var(--tg-color-gray-6);
+  color: white;
 }
 .copyright__text-two {
   text-align: right;
