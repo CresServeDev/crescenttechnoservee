@@ -3088,7 +3088,7 @@ textarea {
   padding: 270px 0 180px;
   position: relative;
   z-index: 1;
-  min-height: 825px;
+  height: 825px;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
