@@ -12048,6 +12048,7 @@ blockquote cite {
 }
 .footer__bg {
   background-size: cover;
+  background: #00B6B1;
   background-position: center;
   padding: 195px 0 0;
   margin-top: -110px;
