@@ -1133,7 +1133,7 @@ textarea {
   transform: rotate(180deg);
 }
 .offCanvas__logo img {
-  max-height: 34px;
+  max-height: 60px;
 }
 .offCanvas__content {
   margin-bottom: 40px;
@@ -1648,7 +1648,7 @@ textarea {
   text-align: left;
 }
 .tgmobile__menu .nav-logo img {
-  width: 150px;
+  width: 50px;
 }
 .tgmobile__menu .navigation {
   position: relative;
