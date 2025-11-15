@@ -4892,9 +4892,15 @@ textarea {
 ===============================*/
 .counter__area-two {
   background: var(--tg-theme-primary);
+  text-align: center;
   position: relative;
   z-index: 1;
   padding: 72px 0 85px;
+}
+
+.counter__area-two h1{
+  color: white;
+  font-size: 2.3rem;
 }
 @media (max-width: 767.98px) {
   .counter__area-two {
