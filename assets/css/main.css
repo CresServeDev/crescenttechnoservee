@@ -3504,7 +3504,7 @@ textarea {
   bottom: 0;
   width: 52%;
   height: auto;
-  background: #0036BE;
+  background: #004A4F;
   z-index: -2;
   clip-path: ellipse(100% 91% at 104% 52%);
 }
@@ -5510,7 +5510,6 @@ textarea {
 ===============================*/
 .counter__area-two {
   background: #004958;
-
   text-align: center;
   position: relative;
   z-index: 1;
