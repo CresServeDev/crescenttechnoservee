@@ -1350,7 +1350,7 @@ textarea {
   height: 100%;
   z-index: -1;
   pointer-events: none;
-  background: linear-gradient(90deg, #186c74c2 25.96%, rgba(198, 212, 216, 0) 100%);
+  background: linear-gradient(90deg, #186d74d8 25.96%, rgba(96, 110, 114, 0) 100%);
 }
 
 .breadcrumb__content .title {
@@ -1388,7 +1388,7 @@ textarea {
 .breadcrumb__content .breadcrumb {
   margin-bottom: 0;
   display: inline-flex;
-  background: var(--tg-color-blue-light-4);
+  background: #054c5888;
   -webkit-border-radius: 80px;
   -moz-border-radius: 80px;
   -o-border-radius: 80px;
@@ -6753,7 +6753,7 @@ textarea {
 
 .sidebar__contact .title {
   margin-bottom: 8px;
-  color: var(--tg-color-white-default);
+  color: #004958;
   font-size: 28px;
 }
 
@@ -6765,7 +6765,7 @@ textarea {
 
 .sidebar__contact p {
   font-weight: 500;
-  color: var(--tg-color-white-default);
+  color: #004958;
   width: 85%;
   text-transform: capitalize;
   margin: 0 auto 25px;
