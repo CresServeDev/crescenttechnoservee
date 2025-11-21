@@ -1425,7 +1425,7 @@ textarea {
 }
 
 .breadcrumb__content .breadcrumb span.breadcrumb-separator {
-  color: var(--tg-color-gray-8);
+  color: white;
 }
 
 /*=============================
