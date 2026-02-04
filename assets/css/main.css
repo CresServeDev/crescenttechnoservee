@@ -13948,8 +13948,9 @@ blockquote cite {
   flex-grow: 1;
   justify-content: center;
   background: var(--tg-color-white-default);
-  /* color: #ffffff; */
+  color: #066ec2;
 }
+
 
 .footer__cta-wrap .tg-btn:hover {
   background: var(--tg-color-white-default);
