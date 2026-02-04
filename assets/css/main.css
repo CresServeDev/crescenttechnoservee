@@ -13947,8 +13947,8 @@ blockquote cite {
   padding: 20px 26px 21px;
   flex-grow: 1;
   justify-content: center;
-  background: var(--tg-color-white-default);
-  color: var(--tg-theme-primary);
+  background: yellow;
+  
 }
 
 .footer__cta-wrap .tg-btn:hover {
