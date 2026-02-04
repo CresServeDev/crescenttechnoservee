@@ -1851,7 +1851,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--tg-heading-color);
+  color: #014858;
   background: var(--tg-color-gray-2);
   cursor: pointer;
   border-radius: 5px;
