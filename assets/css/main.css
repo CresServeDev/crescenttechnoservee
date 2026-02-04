@@ -792,7 +792,7 @@ textarea {
   -moz-user-select: none;
   background: var(--tg-theme-primary) none repeat scroll 0 0;
   border: 0;
-  color: var(--tg-color-white-default);
+  color: #014a58;
   cursor: pointer;
   display: inline-flex;
   align-items: center;
