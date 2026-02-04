@@ -44,49 +44,6 @@
 /*  01. Theme Default CSS
 ==============================================*/
 @import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap");
-/* :root {
-  --tg-body-font-family: 'Plus Jakarta Sans', sans-serif;
-  --tg-heading-font-family: 'Plus Jakarta Sans', sans-serif;
-  --tg-icon-font-family: "Font Awesome 5 Free";
-  --tg-body-font-size: 16px;
-  --tg-body-line-height: 1.7;
-  --tg-heading-line-height: 1.2;
-  --tg-body-color: #585b6f;
-  --tg-heading-color: #0A165E;
-  --tg-theme-primary: #0143EB;
-  --tg-theme-secondary: #0A165E;
-  --tg-color-blue-light: #22318c;
-  --tg-color-blue-light-2: #3a71ff;
-  --tg-color-blue-light-3: #0143eb;
-  --tg-color-blue-light-4: #26327B;
-  --tg-color-yellow-light: #FFBA25;
-  --tg-color-white-default: #ffffff;
-  --tg-color-gray-1: #eef1ff;
-  --tg-color-gray-2: #f5f6f7;
-  --tg-color-gray-3: #F3F4FB;
-  --tg-color-gray-4: #E5EAFF;
-  --tg-color-gray-5: #bec2d4;
-  --tg-color-gray-6: #AFB3C8;
-  --tg-color-gray-7: #E7E9F6;
-  --tg-color-gray-8: #7E86B1;
-  --tg-color-dark: #121212;
-  --tg-color-dark-2: #000522;
-  --tg-color-dark-3: #020931;
-  --tg-border-1: #666D94;
-  --tg-border-2: #e0e2ea;
-  --tg-border-3: #DEDEDE;
-  --tg-border-4: #dee1e3;
-  --tg-border-5: #D0D0E5;
-  --tg-border-6: #BDBDBD;
-  --tg-border-7: #B1C4F6;
-  --tg-border-8: #e0e1e9;
-  --tg-fw-extra-bold: 800;
-  --tg-fw-bold: 700;
-  --tg-fw-semi-bold: 600;
-  --tg-fw-medium: 500;
-  --tg-fw-regular: 400;
-  --tg-fw-light: 300;
-} */
 
 :root {
   /* Font Families */

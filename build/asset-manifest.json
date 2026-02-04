@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9263859e.css",
+    "main.js": "/static/js/main.e6bbf9cb.js",
+    "static/media/flaticon.svg": "/static/media/flaticon.78cea5557622da81acf3.svg",
+    "static/media/flaticon.eot": "/static/media/flaticon.d5fa157a91d3bed9c253.eot",
+    "static/media/flaticon.ttf": "/static/media/flaticon.12725652e75728064d94.ttf",
+    "static/media/flaticon_tg_default.svg?": "/static/media/flaticon_tg_default.04b8fc019d07dbbc416f.svg",
+    "static/media/flaticon.woff": "/static/media/flaticon.083ab07ff388381cca69.woff",
+    "static/media/flaticon.woff2": "/static/media/flaticon.dc0e6d8f84cb64f8a6e7.woff2",
+    "static/media/flaticon_tg_default.eot?": "/static/media/flaticon_tg_default.0b86e0555d3a75ab898f.eot",
+    "static/media/flaticon_tg_default.ttf?": "/static/media/flaticon_tg_default.0bef2b95d6a04b38da75.ttf",
+    "static/media/flaticon_tg_default.woff?": "/static/media/flaticon_tg_default.ba0e7934d66df57d3341.woff",
+    "static/media/flaticon_tg_default.woff2?": "/static/media/flaticon_tg_default.69ddc25e9e86c44eda64.woff2",
+    "index.html": "/index.html",
+    "main.9263859e.css.map": "/static/css/main.9263859e.css.map",
+    "main.e6bbf9cb.js.map": "/static/js/main.e6bbf9cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9263859e.css",
+    "static/js/main.e6bbf9cb.js"
+  ]
+}
