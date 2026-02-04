@@ -13948,6 +13948,7 @@ blockquote cite {
   flex-grow: 1;
   justify-content: center;
   background: var(--tg-color-white-default);
+  color: var(--tg-theme-primary);
 }
 
 .footer__cta-wrap .tg-btn:hover {
