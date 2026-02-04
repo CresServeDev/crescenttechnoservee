@@ -13948,8 +13948,9 @@ blockquote cite {
   flex-grow: 1;
   justify-content: center;
   background: var(--tg-color-white-default);
+  color: #066ec2;
 }
-.footer__cta-wrap .tg-btnn {
+/* .footer__cta-wrap .tg-btnn {
   font-size: 16px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -13961,12 +13962,12 @@ blockquote cite {
   justify-content: center;
   background: var(--tg-color-white-default);
   color: var(--tg-theme-primary);
-}
+} */
 
-.footer__cta-wrap .tg-btnn:hover {
+/* .footer__cta-wrap .tg-btnn:hover {
   background: var(--tg-color-white-default);
   color: var(--tg-theme-primary);
-}
+} */
 
 .footer__cta-wrap .tg-btn:hover {
   background: var(--tg-color-white-default);
