@@ -2860,7 +2860,7 @@ textarea {
   font-size: 16px;
   font-weight: var(--tg-fw-bold);
   text-transform: capitalize;
-  color: var(--tg-heading-color);
+  color: var(--tg-theme-primary);
   font-family: var(--tg-heading-font-family);
   padding: 32px 10px;
   display: -webkit-box;
