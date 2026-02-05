@@ -14124,7 +14124,7 @@ blockquote cite {
   font-weight: 600;
   font-size: 15px;
   text-transform: capitalize;
-  color: var(--tg-color-gray-6);
+  color: var(--tg-color-white-default);
   background-repeat: no-repeat;
   background-position-y: 0;
   background-image: linear-gradient(transparent calc(100% - 1px), var(--tg-color-white-default) 1px);
@@ -14156,7 +14156,7 @@ blockquote cite {
 }
 
 .footer__contact a.phone:hover {
-  color: #004958;
+  color: #969a9be7;
 }
 
 .footer__contact a.mail {
@@ -14164,7 +14164,7 @@ blockquote cite {
 }
 
 .footer__contact a.mail:hover {
-  color: #004958;
+  color: #969a9be7;
 }
 
 .footer__newsletter p {
