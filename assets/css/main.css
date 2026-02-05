@@ -3526,6 +3526,7 @@ textarea {
   right: 0;
   top: 0;
   bottom: 0;
+  background-repeat: no-repeat;
 }
 
 @media (max-width: 991.98px) {
