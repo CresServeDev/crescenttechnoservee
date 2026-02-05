@@ -105,7 +105,9 @@
 
   /* Theme */
   --tg-theme-primary: #004958;
-  --tg-theme-secondary: #007B83;
+  /* --tg-theme-secondary: #007B83; */
+  --tg-theme-secondary: #16525e;
+
   --tg-theme-accent: #00B6B1;
   --tg-theme-highlight: #F5C66A;
 
