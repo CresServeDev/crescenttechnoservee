@@ -1352,7 +1352,7 @@ textarea {
   height: 100%;
   z-index: -1;
   pointer-events: none;
-  background: linear-gradient(90deg, #2f0bd1d8 25.96%, rgba(0, 60, 255, 0.281) 100%);
+  background: linear-gradient(90deg, #004958e5 25.96%, rgba(3, 104, 151, 0.233) 100%);
 }
 
 .breadcrumb__content .title {
